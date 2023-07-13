@@ -1,0 +1,4 @@
+- The red and IR intensity values and the timer time are saved to the EEPROM upon saving:
+    - Address 0: Timer time value
+    - Address 1: Red intensity value
+    - Address 2: IR intensity value
